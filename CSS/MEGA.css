@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    scroll-behavior: smooth;
+    margin: 0;
+}
+
+
+
+#homeBTN{
+    width: 100px;
+    height: 100px;
+    border-radius: 30px;
+    transition: 0.5s all;
+
+}
+
+#homeBTN:hover{
+    transform:  scale(1.25);
+    border-radius: 50%;
+
+}
+
+
+
+.mega{
+    box-shadow: -5px 10px 0px 0px #0D6EFD;
+    transition: 1s all;
+}
+
+#shadow:hover{
+    box-shadow: -5px 2px 54px -9px transparent;
+}
+
+
+
+.btnDiv{
+    transition: 0.5s all;
+}
+
+.btnDiv:hover{
+    margin-left: 25px;
+}
+
