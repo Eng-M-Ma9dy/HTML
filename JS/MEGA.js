@@ -26,5 +26,5 @@ function hiddenDisplay(s,n){
 
 
 function openHome(){
-    window.open("https://www.linkedin.com/in/eng-m-ma9dy/","_blank")
+    window.open("https://eng-m-ma9dy.github.io/FrontEnd/","_self")
 }
